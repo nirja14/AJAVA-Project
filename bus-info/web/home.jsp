@@ -70,7 +70,7 @@
 
     <div class="rule-section">
         <h2>E-ticket Validity:</h2>
-        <p>A printed ticket or soft copy (PDF/SMS/GSRTC app) is accepted. Make sure your mobile is charged if showing on device.</p>
+        <p>A printed ticket or a soft copy (PDF/SMS/GSRTC app) is accepted. Make sure your mobile is charged if showing on device.</p>
     </div>
 
     <div class="rule-section">
